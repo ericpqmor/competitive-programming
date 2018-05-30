@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TravelingSalesman.dir/TSP.cpp.o  -o TravelingSalesman 

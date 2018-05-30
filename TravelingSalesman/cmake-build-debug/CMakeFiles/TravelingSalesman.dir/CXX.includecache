@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/igor/Desktop/Projects/TravelingSalesman/TSP.cpp
+iostream
+-
+string
+-
+fstream
+-
+cmath
+-
+math.h
+-
+vector
+-
+cstdlib
+-
+cstring
+-
+
